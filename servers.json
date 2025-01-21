@@ -59,6 +59,10 @@
     {
       "name": "Realmzer",
       "address": "https://anisette.realmzer.xyz/"
+    },
+    {
+      "name": "my_server",
+      "address": "http://207.211.157.173:6969"
     }
   ],
   "cache": "https://servers.sidestore.io/servers.json.hash"
